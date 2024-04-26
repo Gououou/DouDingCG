@@ -41,16 +41,6 @@
         </filter>
     </appender>
 
-    <logger name="com.eybond.pmm" level="DEBUG" additivity="false">
-        <appender-ref ref="FILE" />
-        <appender-ref ref="CONSOLE" />
-        <appender-ref ref="ERROR_FILE" />
-    </logger>
-    <springProfile name="local">
-        <logger name="com.eybond.aem" level="DEBUG" additivity="false">
-            <appender-ref ref="CONSOLE" />
-        </logger>
-    </springProfile>
     <root level="INFO">
         <appender-ref ref="FILE" />
         <appender-ref ref="CONSOLE" />

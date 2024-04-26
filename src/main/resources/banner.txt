@@ -1,0 +1,33 @@
+
+
+
+XXXXXXX       XXXXXXX  iiii                                    DDDDDDDDDDDDD                                           DDDDDDDDDDDDD          iiii
+X:::::X       X:::::X i::::i                                   D::::::::::::DDD                                        D::::::::::::DDD      i::::i
+X:::::X       X:::::X  iiii                                    D:::::::::::::::DD                                      D:::::::::::::::DD     iiii
+X::::::X     X::::::X                                          DDD:::::DDDDD:::::D                                     DDD:::::DDDDD:::::D
+XXX:::::X   X:::::XXXiiiiiii   aaaaaaaaaaaaa     ooooooooooo     D:::::D    D:::::D    ooooooooooo   uuuuuu    uuuuuu    D:::::D    D:::::D iiiiiiinnnn  nnnnnnnn       ggggggggg   ggggg
+   X:::::X X:::::X   i:::::i   a::::::::::::a  oo:::::::::::oo   D:::::D     D:::::D oo:::::::::::oo u::::u    u::::u    D:::::D     D:::::Di:::::in:::nn::::::::nn    g:::::::::ggg::::g
+    X:::::X:::::X     i::::i   aaaaaaaaa:::::ao:::::::::::::::o  D:::::D     D:::::Do:::::::::::::::ou::::u    u::::u    D:::::D     D:::::D i::::in::::::::::::::nn  g:::::::::::::::::g
+     X:::::::::X      i::::i            a::::ao:::::ooooo:::::o  D:::::D     D:::::Do:::::ooooo:::::ou::::u    u::::u    D:::::D     D:::::D i::::inn:::::::::::::::ng::::::ggggg::::::gg
+     X:::::::::X      i::::i     aaaaaaa:::::ao::::o     o::::o  D:::::D     D:::::Do::::o     o::::ou::::u    u::::u    D:::::D     D:::::D i::::i  n:::::nnnn:::::ng:::::g     g:::::g
+    X:::::X:::::X     i::::i   aa::::::::::::ao::::o     o::::o  D:::::D     D:::::Do::::o     o::::ou::::u    u::::u    D:::::D     D:::::D i::::i  n::::n    n::::ng:::::g     g:::::g
+   X:::::X X:::::X    i::::i  a::::aaaa::::::ao::::o     o::::o  D:::::D     D:::::Do::::o     o::::ou::::u    u::::u    D:::::D     D:::::D i::::i  n::::n    n::::ng:::::g     g:::::g
+XXX:::::X   X:::::XXX i::::i a::::a    a:::::ao::::o     o::::o  D:::::D    D:::::D o::::o     o::::ou:::::uuuu:::::u    D:::::D    D:::::D  i::::i  n::::n    n::::ng::::::g    g:::::g
+X::::::X     X::::::Xi::::::ia::::a    a:::::ao:::::ooooo:::::oDDD:::::DDDDD:::::D  o:::::ooooo:::::ou:::::::::::::::uuDDD:::::DDDDD:::::D  i::::::i n::::n    n::::ng:::::::ggggg:::::g
+X:::::X       X:::::Xi::::::ia:::::aaaa::::::ao:::::::::::::::oD:::::::::::::::DD   o:::::::::::::::o u:::::::::::::::uD:::::::::::::::DD   i::::::i n::::n    n::::n g::::::::::::::::g
+X:::::X       X:::::Xi::::::i a::::::::::aa:::aoo:::::::::::oo D::::::::::::DDD      oo:::::::::::oo   uu::::::::uu:::uD::::::::::::DDD     i::::::i n::::n    n::::n  gg::::::::::::::g
+XXXXXXX       XXXXXXXiiiiiiii  aaaaaaaaaa  aaaa  ooooooooooo   DDDDDDDDDDDDD           ooooooooooo       uuuuuuuu  uuuuDDDDDDDDDDDDD        iiiiiiii nnnnnn    nnnnnn    gggggggg::::::g
+                                                                                                                                                                                 g:::::g
+                                                                                                                                                                     gggggg      g:::::g
+                                                                                                                                                                     g:::::gg   gg:::::g
+                                                                                                                                                                      g::::::ggg:::::::g
+                                                                                                                                                                       gg:::::::::::::g
+                                                                                                                                                                         ggg::::::ggg
+                                                                                                                                                                            gggggg
+
+=========================================================================================================================================================================================
+
+                                                多活一天不好吗
+                                                官网: https://leetcode.cn/
+
+=========================================================================================================================================================================================
