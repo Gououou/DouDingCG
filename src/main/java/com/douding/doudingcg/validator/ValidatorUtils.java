@@ -8,7 +8,6 @@ import org.hibernate.validator.messageinterpolation.ResourceBundleMessageInterpo
 import org.springframework.beans.factory.NoSuchBeanDefinitionException;
 import org.springframework.context.i18n.LocaleContextHolder;
 import org.springframework.context.support.ResourceBundleMessageSource;
-import org.springframework.stereotype.Component;
 import org.springframework.util.StringUtils;
 import org.springframework.validation.beanvalidation.MessageSourceResourceBundleLocator;
 import org.springframework.web.context.request.RequestAttributes;
@@ -54,7 +53,6 @@ public class ValidatorUtils {
         if (defaultLocale == null) {
             defaultLocale = Locale.CHINA;
         }
-        //log.info("MessageUtils now Locale : {}.",defaultLocale);
         messageSource.setDefaultLocale(defaultLocale);
         try {
             return messageSource.getMessage(msg.trim(), args, defaultLocale).trim();
